@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-miripTraveloka-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-miripTraveloka-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-miripTraveloka-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-miripTraveloka-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GeoparkTourism.iml" filepath="$PROJECT_DIR$/.idea/modules/GeoparkTourism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GeoparkTourism.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GeoparkTourism.app.iml" />
     </modules>
   </component>
 </project>
