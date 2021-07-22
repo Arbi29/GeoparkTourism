@@ -54,6 +54,8 @@
         android:layout_marginLeft="17dp"
         android:layout_marginStart="17dp"
         android:layout_marginTop="18dp"
+        android:textColor="#C9D4F3"
+        android:textStyle="bold"
         android:text="Already have an account? "
         app:layout_constraintLeft_toLeftOf="@+id/register"
         app:layout_constraintTop_toBottomOf="@+id/register"
